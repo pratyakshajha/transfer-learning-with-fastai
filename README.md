@@ -10,4 +10,4 @@ All the python notebooks have been written for colab specifically. To run any no
  ![upload notebook](images/oc1.png)
 
 ---
-Alternatively, install [this](!https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo/related) extension for chrome to open any python notebooks hosted on GitHub directly in Colab.
+Alternatively, install [this](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo/related) extension for chrome to open any python notebooks hosted on GitHub directly in Colab.
