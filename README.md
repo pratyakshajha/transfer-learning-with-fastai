@@ -1,6 +1,6 @@
 # Transfer Learning by Fastai
 
-This repo consists my codes and notes from fastai deep learning part 1 course. 
+This repo consists my code from fastai deep learning part 1 course's first lesson. 
 
 All the python notebooks have been written for colab specifically. To run any notebook, open them in colab by:
 
