@@ -1,6 +1,6 @@
 # Transfer Learning by Fastai
 
-This repo consists my code from fastai deep learning part 1 course's first lesson. 
+This repo consists my code from fastai deep learning part 1 course's lesson on using transfer learning for computer vision. 
 
 All the python notebooks have been written for colab specifically. To run any notebook, open them in colab by:
 
